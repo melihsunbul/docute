@@ -32,6 +32,18 @@ Effortless documentation, done right.
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
+## Project setup
+
+```
+yarn install
+```
+
+### Compiles and hot-reloads documentation website
+
+```
+yarn website
+```
+
 ## Author
 
 **Docute** © [EGOIST](https://github.com/egoist), Released under the [MIT](./LICENSE) License.<br>
